@@ -1,0 +1,90 @@
+C:\Users\Nekit\source\repos\CinemaBox\CinemaBox\bin\Debug\CinemaBox.exe.config
+C:\Users\Nekit\source\repos\CinemaBox\CinemaBox\bin\Debug\CinemaBox.exe
+C:\Users\Nekit\source\repos\CinemaBox\CinemaBox\bin\Debug\CinemaBox.pdb
+C:\Users\Nekit\source\repos\CinemaBox\CinemaBox\obj\Debug\CinemaBox.csprojAssemblyReference.cache
+C:\Users\Nekit\source\repos\CinemaBox\CinemaBox\obj\Debug\CinemaBox.Properties.Resources.resources
+C:\Users\Nekit\source\repos\CinemaBox\CinemaBox\obj\Debug\CinemaBox.csproj.GenerateResource.cache
+C:\Users\Nekit\source\repos\CinemaBox\CinemaBox\obj\Debug\CinemaBox.csproj.CoreCompileInputs.cache
+C:\Users\Nekit\source\repos\CinemaBox\CinemaBox\obj\Debug\CinemaBox.exe
+C:\Users\Nekit\source\repos\CinemaBox\CinemaBox\obj\Debug\CinemaBox.pdb
+C:\Users\Nekit\source\repos\CinemaBox\CinemaBox\obj\Debug\CinemaBox.mainForm.resources
+C:\Users\Максим\source\repos\CinemaBox2\CinemaBox\bin\Debug\CinemaBox.exe.config
+C:\Users\Максим\source\repos\CinemaBox2\CinemaBox\bin\Debug\CinemaBox.exe
+C:\Users\Максим\source\repos\CinemaBox2\CinemaBox\bin\Debug\CinemaBox.pdb
+C:\Users\Максим\source\repos\CinemaBox2\CinemaBox\obj\Debug\CinemaBox.csprojAssemblyReference.cache
+C:\Users\Максим\source\repos\CinemaBox2\CinemaBox\obj\Debug\CinemaBox.mainForm.resources
+C:\Users\Максим\source\repos\CinemaBox2\CinemaBox\obj\Debug\CinemaBox.Properties.Resources.resources
+C:\Users\Максим\source\repos\CinemaBox2\CinemaBox\obj\Debug\CinemaBox.csproj.GenerateResource.cache
+C:\Users\Максим\source\repos\CinemaBox2\CinemaBox\obj\Debug\CinemaBox.exe
+C:\Users\Максим\source\repos\CinemaBox2\CinemaBox\obj\Debug\CinemaBox.pdb
+C:\Users\Максим\source\repos\CinemaBox2\CinemaBox\obj\Debug\CinemaBox.AddFilmForm.resources
+C:\Users\Максим\source\repos\CinemaBox2\CinemaBox\obj\Debug\CinemaBox.ChangeFilmInfoForm.resources
+C:\Users\Nekit\source\repos\CinemaBox2\CinemaBox\bin\Debug\CinemaBox.exe.config
+C:\Users\Nekit\source\repos\CinemaBox2\CinemaBox\bin\Debug\CinemaBox.exe
+C:\Users\Nekit\source\repos\CinemaBox2\CinemaBox\bin\Debug\CinemaBox.pdb
+C:\Users\Nekit\source\repos\CinemaBox2\CinemaBox\obj\Debug\CinemaBox.csprojAssemblyReference.cache
+C:\Users\Nekit\source\repos\CinemaBox2\CinemaBox\obj\Debug\CinemaBox.AddFilmForm.resources
+C:\Users\Nekit\source\repos\CinemaBox2\CinemaBox\obj\Debug\CinemaBox.ChangeFilmInfoForm.resources
+C:\Users\Nekit\source\repos\CinemaBox2\CinemaBox\obj\Debug\CinemaBox.mainForm.resources
+C:\Users\Nekit\source\repos\CinemaBox2\CinemaBox\obj\Debug\CinemaBox.Properties.Resources.resources
+C:\Users\Nekit\source\repos\CinemaBox2\CinemaBox\obj\Debug\CinemaBox.csproj.GenerateResource.cache
+C:\Users\Nekit\source\repos\CinemaBox2\CinemaBox\obj\Debug\CinemaBox.csproj.CoreCompileInputs.cache
+C:\Users\Nekit\source\repos\CinemaBox2\CinemaBox\obj\Debug\CinemaBox.exe
+C:\Users\Nekit\source\repos\CinemaBox2\CinemaBox\obj\Debug\CinemaBox.pdb
+C:\Users\Nekit\source\repos\CinemaBox2\CinemaBox\obj\Debug\CinemaBox.AddSessionForm.resources
+C:\Users\Nekit\source\repos\CinemaBox2\CinemaBox\obj\Debug\CinemaBox.ReportsForm.resources
+C:\Users\Nekit\source\repos\CinemaBox2\CinemaBox\obj\Debug\CinemaBox.csproj.ResolveComReference.cache
+C:\Users\Nekit\source\repos\CinemaBox2\CinemaBox\obj\Debug\CinemaBox.BuyTicketFrom.resources
+C:\Users\Nekit\source\repos\CinemaBox2\CinemaBox\obj\Debug\CinemaBox.ReturnTicketForm.resources
+C:\Users\Nekit\source\repos\CinemaBox2\CinemaBox\obj\Debug\CinemaBox.LogInForm.resources
+C:\Users\Nekit\source\repos\CinemaBox2\CinemaBox\obj\Debug\CinemaBox.SignUpForm.resources
+C:\Users\Nekit\source\repos\CinemaBox2\CinemaBox\obj\Debug\CinemaBox.ForgotPasswordForm.resources
+C:\Users\Nekit\source\repos\CinemaBox2\CinemaBox\obj\Debug\CinemaBox.AddDirectorForm.resources
+C:\Users\Nekit\source\repos\CinemaBox2\CinemaBox\obj\Debug\CinemaBox.ChangeDirecrorForm.resources
+C:\Users\Nekit\source\repos\CinemaBox2\CinemaBox\obj\Debug\CinemaBox.OffersForm.resources
+C:\Users\Nekit\Desktop\Диплом\CinemaBox\CinemaBox\bin\Debug\CinemaBox.exe.config
+C:\Users\Nekit\Desktop\Диплом\CinemaBox\CinemaBox\bin\Debug\CinemaBox.exe
+C:\Users\Nekit\Desktop\Диплом\CinemaBox\CinemaBox\bin\Debug\CinemaBox.pdb
+C:\Users\Nekit\Desktop\Диплом\CinemaBox\CinemaBox\obj\Debug\CinemaBox.csprojAssemblyReference.cache
+C:\Users\Nekit\Desktop\Диплом\CinemaBox\CinemaBox\obj\Debug\CinemaBox.csproj.ResolveComReference.cache
+C:\Users\Nekit\Desktop\Диплом\CinemaBox\CinemaBox\obj\Debug\CinemaBox.AddDirectorForm.resources
+C:\Users\Nekit\Desktop\Диплом\CinemaBox\CinemaBox\obj\Debug\CinemaBox.AddFilmForm.resources
+C:\Users\Nekit\Desktop\Диплом\CinemaBox\CinemaBox\obj\Debug\CinemaBox.AddSessionForm.resources
+C:\Users\Nekit\Desktop\Диплом\CinemaBox\CinemaBox\obj\Debug\CinemaBox.BuyTicketFrom.resources
+C:\Users\Nekit\Desktop\Диплом\CinemaBox\CinemaBox\obj\Debug\CinemaBox.ChangeDirecrorForm.resources
+C:\Users\Nekit\Desktop\Диплом\CinemaBox\CinemaBox\obj\Debug\CinemaBox.ChangeFilmInfoForm.resources
+C:\Users\Nekit\Desktop\Диплом\CinemaBox\CinemaBox\obj\Debug\CinemaBox.ForgotPasswordForm.resources
+C:\Users\Nekit\Desktop\Диплом\CinemaBox\CinemaBox\obj\Debug\CinemaBox.LogInForm.resources
+C:\Users\Nekit\Desktop\Диплом\CinemaBox\CinemaBox\obj\Debug\CinemaBox.mainForm.resources
+C:\Users\Nekit\Desktop\Диплом\CinemaBox\CinemaBox\obj\Debug\CinemaBox.OffersForm.resources
+C:\Users\Nekit\Desktop\Диплом\CinemaBox\CinemaBox\obj\Debug\CinemaBox.Properties.Resources.resources
+C:\Users\Nekit\Desktop\Диплом\CinemaBox\CinemaBox\obj\Debug\CinemaBox.ReportsForm.resources
+C:\Users\Nekit\Desktop\Диплом\CinemaBox\CinemaBox\obj\Debug\CinemaBox.ReturnTicketForm.resources
+C:\Users\Nekit\Desktop\Диплом\CinemaBox\CinemaBox\obj\Debug\CinemaBox.SignUpForm.resources
+C:\Users\Nekit\Desktop\Диплом\CinemaBox\CinemaBox\obj\Debug\CinemaBox.csproj.GenerateResource.cache
+C:\Users\Nekit\Desktop\Диплом\CinemaBox\CinemaBox\obj\Debug\CinemaBox.csproj.CoreCompileInputs.cache
+C:\Users\Nekit\Desktop\Диплом\CinemaBox\CinemaBox\obj\Debug\CinemaBox.exe
+C:\Users\Nekit\Desktop\Диплом\CinemaBox\CinemaBox\obj\Debug\CinemaBox.pdb
+C:\Users\Nekit\Desktop\Диплом v2.0\CinemaBox\CinemaBox\bin\Debug\CinemaBox.exe.config
+C:\Users\Nekit\Desktop\Диплом v2.0\CinemaBox\CinemaBox\bin\Debug\CinemaBox.exe
+C:\Users\Nekit\Desktop\Диплом v2.0\CinemaBox\CinemaBox\bin\Debug\CinemaBox.pdb
+C:\Users\Nekit\Desktop\Диплом v2.0\CinemaBox\CinemaBox\obj\Debug\CinemaBox.csprojAssemblyReference.cache
+C:\Users\Nekit\Desktop\Диплом v2.0\CinemaBox\CinemaBox\obj\Debug\CinemaBox.csproj.ResolveComReference.cache
+C:\Users\Nekit\Desktop\Диплом v2.0\CinemaBox\CinemaBox\obj\Debug\CinemaBox.AddDirectorForm.resources
+C:\Users\Nekit\Desktop\Диплом v2.0\CinemaBox\CinemaBox\obj\Debug\CinemaBox.AddFilmForm.resources
+C:\Users\Nekit\Desktop\Диплом v2.0\CinemaBox\CinemaBox\obj\Debug\CinemaBox.AddSessionForm.resources
+C:\Users\Nekit\Desktop\Диплом v2.0\CinemaBox\CinemaBox\obj\Debug\CinemaBox.BuyTicketFrom.resources
+C:\Users\Nekit\Desktop\Диплом v2.0\CinemaBox\CinemaBox\obj\Debug\CinemaBox.ChangeDirecrorForm.resources
+C:\Users\Nekit\Desktop\Диплом v2.0\CinemaBox\CinemaBox\obj\Debug\CinemaBox.ChangeFilmInfoForm.resources
+C:\Users\Nekit\Desktop\Диплом v2.0\CinemaBox\CinemaBox\obj\Debug\CinemaBox.ForgotPasswordForm.resources
+C:\Users\Nekit\Desktop\Диплом v2.0\CinemaBox\CinemaBox\obj\Debug\CinemaBox.LogInForm.resources
+C:\Users\Nekit\Desktop\Диплом v2.0\CinemaBox\CinemaBox\obj\Debug\CinemaBox.mainForm.resources
+C:\Users\Nekit\Desktop\Диплом v2.0\CinemaBox\CinemaBox\obj\Debug\CinemaBox.OffersForm.resources
+C:\Users\Nekit\Desktop\Диплом v2.0\CinemaBox\CinemaBox\obj\Debug\CinemaBox.Properties.Resources.resources
+C:\Users\Nekit\Desktop\Диплом v2.0\CinemaBox\CinemaBox\obj\Debug\CinemaBox.ReportsForm.resources
+C:\Users\Nekit\Desktop\Диплом v2.0\CinemaBox\CinemaBox\obj\Debug\CinemaBox.ReturnTicketForm.resources
+C:\Users\Nekit\Desktop\Диплом v2.0\CinemaBox\CinemaBox\obj\Debug\CinemaBox.SignUpForm.resources
+C:\Users\Nekit\Desktop\Диплом v2.0\CinemaBox\CinemaBox\obj\Debug\CinemaBox.csproj.GenerateResource.cache
+C:\Users\Nekit\Desktop\Диплом v2.0\CinemaBox\CinemaBox\obj\Debug\CinemaBox.csproj.CoreCompileInputs.cache
+C:\Users\Nekit\Desktop\Диплом v2.0\CinemaBox\CinemaBox\obj\Debug\CinemaBox.exe
+C:\Users\Nekit\Desktop\Диплом v2.0\CinemaBox\CinemaBox\obj\Debug\CinemaBox.pdb
